@@ -1,3 +1,5 @@
+Status: done
+
 Implementar loging con password encriptado.
 
 El frontend debe encriptar con un metodo segudo de enciptacion en pasword ingresado.
